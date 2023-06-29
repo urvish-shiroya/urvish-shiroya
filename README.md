@@ -1,4 +1,5 @@
-### Hi there 👋
+<img src="https://github.com/urvish-shiroya/urvish-shiroya/blob/main/source/urvish_banner.png" width="100%"/>
+
 
 <!--
 **urvish-shiroya/urvish-shiroya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
